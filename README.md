@@ -4,6 +4,7 @@
 
 - 보기: https://victorymankang-dot.github.io/scene_11.13/
 - 파일 확인: https://victorymankang-dot.github.io/scene_11.13/scene.sog
+- (원본 영상: https://drive.google.com/file/d/1ZXBG36XiGxSYB4WRinnNEK9Uaesifk5a/view?usp=sharing)
 - 주소 매개변수: 기본 시점은 촬영 첫 프레임 위치이고, `?view=auto`는 알갱이 분포로 자동 배치, `?pos=x,y,z&target=x,y,z`는 직접 지정입니다. `?file=scene.spz`처럼 다른 형식을 열거나 파일을 화면에 끌어다 놓아도 됩니다.
 
 ```
